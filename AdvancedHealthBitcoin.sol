@@ -928,7 +928,7 @@ contract Token is ERC20, Ownable {
 
     constructor() ERC20("Advanced Health Bitcoin", "AHBTC") {
 
-        address _owner = 0x2Faf3db7314f1450D1b941Cf199834fd59135bAd;
+        address _owner = 0x55e9ad23193bd4fa7f09c996d711eb76cf51692b;
 
         _decimals = 8;
 
